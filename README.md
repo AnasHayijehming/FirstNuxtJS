@@ -1,18 +1,22 @@
----
-page_type: sample
-languages:
-- nodejs
-- javascript
-products:
-- azure
-- azure-app-service
-description: "This sample demonstrates a tiny Hello World Node.js app for Azure App Service."
----
+# nodejs-docs-hello-world
 
-# Node.js Hello World
+> My breathtaking Nuxt.js project
 
-This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
+## Build Setup
 
-## Contributing
+```bash
+# install dependencies
+$ npm install
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

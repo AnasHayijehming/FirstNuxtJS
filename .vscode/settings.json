@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/20db7667-f3b7-4579-a2d6-be205b48a952/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/anash",
+    "appService.deploySubpath": "."
+}
